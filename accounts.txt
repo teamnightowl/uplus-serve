@@ -1,0 +1,3 @@
+[{"account_no":"100094183679","currency":"PHP","account_name":"nightowl-1","status":"ACTIVE","avaiable_balance":"100000.0000","current_balance":"100000.0000"}]
+
+[{"account_no":"100390325623","currency":"PHP","account_name":"nightowl-2","status":"ACTIVE","avaiable_balance":"100000.0000","current_balance":"100000.0000"}]
